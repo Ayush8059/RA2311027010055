@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+.env.local
+*.tsbuildinfo
+.chrome-screenshots/
+dev-server.log
